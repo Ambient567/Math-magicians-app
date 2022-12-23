@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
-
 # 📖 Math Magician App <a name="about-project"></a>
 
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
@@ -169,9 +147,9 @@ You can deploy this project using:
 
 👤 **Precious Nhlapho**
 
-- GitHub: [@studiosnabeel](https://github.com/Ambient567)
-- Twitter: [@StudiosNabeel](https://twitter.com/Ambient567)
-- LinkedIn: [@NabeelAKbar](https://www.linkedin.com/in/precious-nhlapho-8b8b4a246/)
+- GitHub: [@PreciousNhlapho](https://github.com/Ambient567)
+- Twitter: [@PreciousNhlapho](https://twitter.com/Ambient567)
+- LinkedIn: [@PreciousNhlapho](https://www.linkedin.com/in/precious-nhlapho-8b8b4a246/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
